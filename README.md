@@ -1,6 +1,6 @@
 # BannedIPList
 
-IP addresses collected from Fail2Ban logs.
+IP addresses collected from logs.
 
 
 postfixbanned.list = Repeat* failed login attempts inbound on port 25
